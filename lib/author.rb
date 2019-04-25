@@ -28,8 +28,6 @@ class Author
     @@post_count
   end
 
-def author_name
-  
-end
+
 
  end
